@@ -1,0 +1,17 @@
+/Users/a01057585/Desktop/Current/
+/Users/a01057585/Desktop/Current//.DS_Store
+/Users/a01057585/Desktop/Current//htdocs
+/Users/a01057585/Desktop/Current//htdocs/index.html
+/Users/a01057585/Desktop/Current//htdocs/.DS_Store
+/Users/a01057585/Desktop/Current//htdocs/bottom.html
+/Users/a01057585/Desktop/Current//htdocs/img
+/Users/a01057585/Desktop/Current//htdocs/img/img.txt
+/Users/a01057585/Desktop/Current//htdocs/scripts
+/Users/a01057585/Desktop/Current//htdocs/scripts/.DS_Store
+/Users/a01057585/Desktop/Current//htdocs/scripts/css
+/Users/a01057585/Desktop/Current//htdocs/scripts/css/style.css
+/Users/a01057585/Desktop/Current//htdocs/scripts/js
+/Users/a01057585/Desktop/Current//htdocs/scripts/js/myjs.js
+/Users/a01057585/Desktop/Current//htdocs/scripts/js/jq.js
+/Users/a01057585/Desktop/Current//htdocs/head.html
+/Users/a01057585/Desktop/Current//htdocs/find.txt
